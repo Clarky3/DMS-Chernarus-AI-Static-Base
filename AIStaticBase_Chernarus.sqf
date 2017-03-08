@@ -1,6 +1,7 @@
 /*
 	"Ai Base" DMS static mission for Chernarus.
 	Created by Clarkycal/ClarkycalLad using templates by eraser1 with mission code layout and features inspired by mission files from [CiC]red_ned and Riker. Thanks guys!	
+	http://www.exilemod.com/topic/21734-release-dms-chernarus-static-ai-base-mission/
 */
 
 ////////////////////////////////////////////////
