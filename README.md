@@ -13,3 +13,5 @@ This is a Static AI base for Chernarus running DMS missions. It is heavily armed
 These 2 lines provide some preconfigured CUP vehicles and weapons for the mission file if you use those mods on your server.
 1. If you have CUP Weapons, uncomment the "#define USE_CUP_WEAPONS 1" line
 2. If you have CUP Vehicles, uncomment the "#define USE_CUP_VEHICLES 1" line
+
+http://www.exilemod.com/topic/21734-release-dms-chernarus-static-ai-base-mission/
